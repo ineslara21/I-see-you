@@ -1,5 +1,6 @@
 # I-see-you
-Pan and tilt moving servos with Raspberry Pi and a tracker based on haar cascade face detect with Pi Camera
+Pan and tilt face tracker with Raspberry Pi by two 9g servos that include PID control and a tracker based on haar cascade face detect with Pi Camera.
+
 
 ## Dependencies
 
